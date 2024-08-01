@@ -16,5 +16,4 @@ with open('C:\\Users\\Elena\\Downloads\\dataset_3363_2.txt', 'r') as file:
 
                           # автоматическое закрытие файла
 
-print('Файл закрыт')
 
