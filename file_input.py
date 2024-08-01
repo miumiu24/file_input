@@ -14,6 +14,4 @@ with open('C:\\Users\\Elena\\Downloads\\dataset_3363_2.txt', 'r') as file:
         for match in matches:
             print(f"{match[0] * int(match[1])}", end="")
 
-                          # автоматическое закрытие файла
-
 
